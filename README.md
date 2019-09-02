@@ -5,7 +5,7 @@
 [![Release Version](https://img.shields.io/github/release/dfee/rbx.svg)](https://github.com/dfee/rbx)
 [![Npm Downloads](https://img.shields.io/npm/dm/rbx.svg)](https://www.npmjs.com/package/rbx) [![Greenkeeper badge](https://badges.greenkeeper.io/dfee/rbx.svg)](https://greenkeeper.io/)
 
-![A quick look](src/__docs__/public/demo.png?raw=true "A quick look")
+![A quick look](https://raw.githubusercontent.com/dfee/rbx/v2.0.0-beta.0/src/__docs__/public/demo.png "A quick look")
 
 ### 👟 **[Read the docs](https://dfee.github.io/rbx)**.
 
